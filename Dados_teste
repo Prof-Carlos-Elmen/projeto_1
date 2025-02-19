@@ -63,8 +63,8 @@ if __name__ == "__main__":
     bin_sizes, bin_times = zip(*results_binary)  # Separa tamanhos e tempos da busca binária
     
     plt.figure(figsize=(10, 6))  # Define o tamanho da figura
-    plt.plot(seq_sizes, seq_times, label="Busca Sequencial (O(n))", marker="o", color='blue')  # Plota os tempos da busca sequencial
-    plt.plot(bin_sizes, bin_times, label="Busca Binária (O(log n))", marker="s", color='red')  # Plota os tempos da busca binária
+    plt.plot(seq_sizes, seq_times, label="Busca Sequencial (O(n))", color='blue')  # Plota os tempos da busca sequencial
+    plt.plot(bin_sizes, bin_times, label="Busca Binária (O(log n))", color='red')  # Plota os tempos da busca binária
     
     plt.xlabel("Tamanho da Entrada (n)")  # Define o rótulo do eixo X
     plt.ylabel("Tempo Médio de Execução (ms)")  # Define o rótulo do eixo Y
