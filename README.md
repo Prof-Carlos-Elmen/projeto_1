@@ -1,7 +1,9 @@
 
 
 Equipe: Ana Carmélia e Carlos Elmen
+
 Disciplina: Projeto e Análise de Algoritmos
+
 Professor: Thiago Alves Rocha
 
 # projeto_1
