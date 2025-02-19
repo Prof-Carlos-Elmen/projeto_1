@@ -1,11 +1,11 @@
 
-# Disciplina: Projeto e Análise de Algoritmos
+# Disciplina Projeto e Análise de Algoritmos
 
 Professor: Thiago Alves Rocha
 
 Equipe: Ana Carmélia e Carlos Elmen
 
-# projeto_1
+# Projeto 1
 Neste projeto você vai comparar experimentalmente dois algoritmos. Na comparação, você vai apresentar um gráfico no qual o eixo horizontal representa o tamanho da entrada e o eixo vertical representa o tempo de execução. Além disso, você deve comparar as respostas dos dois algoritmos em cada entrada, para ter mais garantia que ambos estão implementados corretamente.
 
 Seu código deve escolher tamanhos de entrada de forma que cada tamanho n seja tal que 10 ≤ n ≤ 10.000. Além disso, os tamanhos de entrada escolhidos devem ser aproximadamente igualmente espaçados. A quantidade k de tamanhos de entrada deve ser escolhida aleatoriamente com 100 <= k <= 200.
