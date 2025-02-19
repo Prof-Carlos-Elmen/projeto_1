@@ -13,7 +13,9 @@ Para o tempo de execução de cada tamanho de entrada n, você deve executar os 
 
 Além disso, cada entrada também deve ser criada aleatoriamente. Por exemplo, se a entrada do seu problema é um vetor A de tamanho n com elementos do tipo inteiro, você pode criar a entrada de forma que cada A[i] seja escolhido com −2n ≤ A[i] ≤ 2n.
 
+# Trabalho
+Índice do Pico de uma distribuição Unimodal
 
-Índice do Pico de uma distribuição Unimodal 
 1- Percorre a lista sequencialmente, verificando para cada índice i se ele satisfaz a condição de pico. Retorna o primeiro índice que atende à definição. Este algoritmo possui tempo O(n).
+
 2- Um algoritmo baseado em busca binária com tempo O(lg n).
