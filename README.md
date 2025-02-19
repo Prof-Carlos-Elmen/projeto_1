@@ -1,10 +1,9 @@
 
-
-Equipe: Ana Carmélia e Carlos Elmen
-
-Disciplina: Projeto e Análise de Algoritmos
+# Disciplina: Projeto e Análise de Algoritmos
 
 Professor: Thiago Alves Rocha
+
+Equipe: Ana Carmélia e Carlos Elmen
 
 # projeto_1
 Neste projeto você vai comparar experimentalmente dois algoritmos. Na comparação, você vai apresentar um gráfico no qual o eixo horizontal representa o tamanho da entrada e o eixo vertical representa o tempo de execução. Além disso, você deve comparar as respostas dos dois algoritmos em cada entrada, para ter mais garantia que ambos estão implementados corretamente.
